@@ -1,0 +1,174 @@
+
+div {
+    padding-top: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+p {
+    margin: 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.secao-01 {
+    background-color: #afddfb;
+}
+
+.secao-01 img {
+    width: 150px;
+}
+
+.secao-01 p {
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.secao-01 a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;    
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+.secao-01 a:hover {
+    color: #369c3b;
+    font-size: 22px;    
+    transition: 350ms linear;
+    transform: scale(1.2);
+    text-decoration: none;
+}
+
+.secao-02 {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+.secao-03 h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.secao-03 h2 {
+    color: #1c81c0;
+    margin-top: 10px;
+}
+
+.secao-03 img {
+    width: 450px;
+    margin-top: 18px;
+}
+
+.secao-03 .texto-azul {
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+.secao-04 {
+    background-color: #1d80c1;
+}
+
+.secao-04 h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-04 p {
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.secao-04 .texto-amarelo {
+    color: #fff81b;
+    font-weight: bold;
+}
+
+.secao-04 ul {
+    margin: 40px auto 40px auto;
+    width: 135px;
+}
+
+.secao-04 ul li {
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.secao-05 h3{
+    color: #1c81c0;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-05 img {
+    width: 450px;
+    margin-top: 18px;
+}
+
+.secao-05 .texto-azul {
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+.secao-06 {
+    background-color: #1d80c1;
+}
+
+.secao-06 h3{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-06 iframe {
+    width: 800px; 
+    height: 350px;
+    border: 0;
+    margin-top: 20px;
+}
+
+.secao-06 p {
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.secao-06 .texto-amarelo {
+    color: #fff81b;
+    font-weight: bold;
+}
+
+.secao-06 ul {
+    margin-top: 40px;
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 210px;
+    margin-bottom: 40px;
+}
+
+.secao-06 ul li {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.secao-06 ul li a {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px 2px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
